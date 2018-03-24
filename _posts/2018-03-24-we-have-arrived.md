@@ -6,7 +6,7 @@ title: We've arrived, keep watching
 It’s hard to believe but after months of dreaming and planning we have finally landed. We now feel a mixture of emotions;
 excited to see what will happen. Everyone here is in good spirits!, that's how we're looking right now. 
 
-![First look](../public/images/first-look.png){:class="img-responsive"}
+![First look](https://blog.roughbook.xyz/public/images/first-look.png){:class="img-responsive"}
                                                                                        
 ### Goal
 

@@ -20,5 +20,5 @@ paginate:         5
 # Custom vars
 version:          1.0.0
 
-github:
-  repo:           https://github.com/roughbook/blog
+careers:
+  url:           https://angel.co/roughbook/jobs

@@ -6,7 +6,7 @@ title: We've arrived, keep watching
 It’s hard to believe but after months of dreaming and planning we have finally landed. We now feel a mixture of emotions;
 excited to see what will happen. Everyone here is in good spirits!, that's how we're looking right now. 
 
-<iframe width="560" height="315" src="https://www.roughbook.xyz/" frameborder="0" allowfullscreen></iframe>
+<iframe width="720" height="550" src="https://www.roughbook.xyz/" frameborder="0" allowfullscreen></iframe>
                                                                                        
 ### Goal
 
@@ -15,12 +15,12 @@ AI-powered inferences. We promise to change not only surveys explorations indust
 Surveys will become intuitive and analysis will become conclusive.
 
 
-### Particulars
+### Promise
 
 Capture honest and concrete sentiments at all times. Build incredible explorations on a twinkle (Or We'll do that) and
 predict the real, momentous inferences from the community.
 
-#### 
+### Particulars
 
 * [Immersive interactivity](https://www.roughbook.xyz/immersive-interactivity.html)
 * [In-vogue questions](https://www.roughbook.xyz/in-vogue_questions.html)

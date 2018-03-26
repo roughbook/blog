@@ -7,8 +7,7 @@ Today, We've added a new inquisition type to help our consumers to attain user's
 changes as our promise to deliver beautifully designed, and easy to use explorations. We've got something to show you
 and Here is how it looks
 
-![First look](https://blog.roughbook.xyz/public/images/match-the-follwing.gif){:class="img-responsive"}
-
+![First look](https://blog.roughbook.xyz/public/images/match-the-follwing.gif)
 
 ### That future is here
 

@@ -16,7 +16,7 @@ RoughBook experience. Everything should feel a much awesome now, more intuitive 
 
 ##### Check it out at below PlayGround
 
-<iframe width="780" height="550" src="https://app.roughbook.xyz/play/talk-with-real-live-humans-1" frameborder="0" allowfullscreen></iframe>
+<iframe width="780" height="640" src="https://app.roughbook.xyz/play/talk-with-real-live-humans-1" frameborder="0" allowfullscreen></iframe>
 
 RoughBook is about infinite possibilities with next level UX for consumers, so for us, it was all about making 
 everything more immersible. Aren’t we interesting a lot?
